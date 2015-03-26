@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "EmptyPod"
-  s.version      = "0.9.0"
+  s.version      = "1.0.0"
   s.summary      = "Empty pod project"
 
   s.homepage     = "https://github.com/abeyuya/EmptyPod"
